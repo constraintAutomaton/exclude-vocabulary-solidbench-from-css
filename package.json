@@ -1,0 +1,14 @@
+{
+  "name": "exclude-vocabulary-solidbench-from-css",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@nodelib/fs.walk": "^2.0.0"
+  }
+}
